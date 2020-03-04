@@ -1,0 +1,10 @@
+C:\Users\momo\source\repos\TresRaya\TresRaya\bin\Debug\TresRaya.exe.config
+C:\Users\momo\source\repos\TresRaya\TresRaya\bin\Debug\TresRaya.exe
+C:\Users\momo\source\repos\TresRaya\TresRaya\bin\Debug\TresRaya.pdb
+C:\Users\momo\source\repos\TresRaya\TresRaya\obj\Debug\TresRaya.csprojAssemblyReference.cache
+C:\Users\momo\source\repos\TresRaya\TresRaya\obj\Debug\TresEnRaya.Form1.resources
+C:\Users\momo\source\repos\TresRaya\TresRaya\obj\Debug\TresRaya.Properties.Resources.resources
+C:\Users\momo\source\repos\TresRaya\TresRaya\obj\Debug\TresRaya.csproj.GenerateResource.cache
+C:\Users\momo\source\repos\TresRaya\TresRaya\obj\Debug\TresRaya.csproj.CoreCompileInputs.cache
+C:\Users\momo\source\repos\TresRaya\TresRaya\obj\Debug\TresRaya.exe
+C:\Users\momo\source\repos\TresRaya\TresRaya\obj\Debug\TresRaya.pdb
